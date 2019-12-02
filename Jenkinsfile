@@ -1,5 +1,5 @@
 node {
-  stage('clone') {
+  stage('clone1') {
   checkout scm 
   }
   stage('build and sonar ') {
