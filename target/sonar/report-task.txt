@@ -1,0 +1,6 @@
+projectKey=io.github.amribrahim:sonar
+serverUrl=http://192.168.1.39:9000
+serverVersion=7.9.1.27448
+dashboardUrl=http://192.168.1.39:9000/dashboard?id=io.github.amribrahim%3Asonar
+ceTaskId=AW7CBQex9i3HBR5j-C1q
+ceTaskUrl=http://192.168.1.39:9000/api/ce/task?id=AW7CBQex9i3HBR5j-C1q
